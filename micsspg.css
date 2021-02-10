@@ -1,0 +1,46 @@
+.body1 {
+    background-color: bisque;
+}
+.headertitle {
+    text-align: center;
+    background-color: rgb(38, 160, 154);
+    color: white;
+}
+.patro {
+    text-align: center;
+}
+div .column-left {
+    background-color: lightblue;
+    
+}
+div .column-right {
+    background-color: rgb(50, 77, 77);
+}
+div .column1 {
+    background-color:rgb(94, 209, 123);
+}
+div .column2 {
+    background-color:darkgray;
+}
+div .column3 {
+    background-color:darksalmon;
+} 
+div .column4 {
+    background-color: gray;
+}
+h3 {
+    text-align: center;
+}
+footer {
+    background-color: aqua;
+}
+footer p {
+   font-size: 1em;
+   text-align: center;   
+}
+@media screen and (min-width:768px) {
+    footer p {
+                font-size: 2em;
+                text-align: center;
+    }
+}
